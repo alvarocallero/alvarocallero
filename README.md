@@ -1,3 +1,5 @@
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?color=82DD14&type=waving&text=Welcome!&fontColor=black&fontSize=30&height=100&section=header"/>
 </p>
