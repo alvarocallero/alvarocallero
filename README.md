@@ -80,9 +80,12 @@
  <p><hr background-color="forestgreen"></p>
 </div>
 <div class="wrapper">
-  <div>One</div>
-  <div>Two</div>
-  <div>Three</div>
-  <div>Four</div>
-  <div>Five</div>
+  <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="elixir" width="60" height="60"/>
+	</div>
+	  <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="sf" width="60" height="60"/>
+	</div>
+	  <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
+	</div>
+	  <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="elixir" width="60" height="60"/>
+	</div>
 </div>
