@@ -7,7 +7,7 @@
 <h3 align="center">Hi I'm Alvaro Callero, let's keep in touch:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaro-callero">
-    <img height="50" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-512.png"/>
+    <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-11-512.png"/>
   </a>
   <a href="https://www.instagram.com/acallero/?hl=en">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-03-512.png"/>
