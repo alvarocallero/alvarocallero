@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Brief introduction and interests</h2>
+<h3> Brief introduction and interests</h3>
 
 ```elixir
   def name, do: "Alvaro"
