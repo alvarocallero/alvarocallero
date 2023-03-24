@@ -1,5 +1,3 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=slice&text=Welcome!"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=orange&text=Welcome&height=100&section=header"/>
 </p>
-
-<h1>Hi there, I'm Alvaro</h1>
