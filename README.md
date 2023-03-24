@@ -76,4 +76,7 @@
 </div>
 
 ![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarocallero&count_private=true&show_icons=true&theme=merko)
+<p align="center">
+  <img width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBiNTM1YzhjZTZiOTEwNzExNjUyZjk2YmIxM2FhODU2Y2Q5NjdhMyZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif">
+</p>
 <a href=""> <img align="right" width="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=40&hide=css"/> </a>
