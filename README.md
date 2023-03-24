@@ -16,7 +16,9 @@
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social___1-512.png"/>
   </a>
 </p>
-
+<div class="line">
+ <p><hr background-color="forestgreen"></p>
+</div>
 <h3> Brief introduction and interests</h3>
 
 ```elixir
