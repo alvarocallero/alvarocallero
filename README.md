@@ -75,5 +75,5 @@
  <p><hr background-color="forestgreen"></p>
 </div>
 
-<a href=""> <img align="right" width="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="left" width="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=40&hide=css"/> </a>
 
