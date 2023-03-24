@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/acallero/?hl=en">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_instagram-512.png"/>
   </a>
-  <a href="https://www.facebook.com/alvaro.callero/">
+  <a href="https://cdn0.iconfinder.com/data/icons/social-media-circle-long-shadow/1024/facebook-512.png">
     <img height="50" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/>
   </a>
 </p>
