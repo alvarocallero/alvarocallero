@@ -4,4 +4,4 @@
 <p align="center">
   <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBiNTM1YzhjZTZiOTEwNzExNjUyZjk2YmIxM2FhODU2Y2Q5NjdhMyZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif">
 </p>
-<h1>Hi I'm Alvaro Callero, let's keep in touch:</h1>
+<h1 align="center">Hi I'm Alvaro Callero, let's keep in touch:</h1>
