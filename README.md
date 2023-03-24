@@ -30,7 +30,7 @@
   
   def education, do: ["Computer Engineer", "Scrum Master Professional Certificate", "Expert in learning by my own :)"]
   
-  def experience, do: ["8 years making cool software", "Error solver", "Backend it's my place", "Let's make something in Elixir"]
+  def experience, do: ["8 years making cool software", "Error solver", "Backend it's my place", "Elixir lover"]
   
   def interests, do: ["Travel around the world", "Drink mate in a beach", "Practice surf", "Read lots of books"]
   
