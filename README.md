@@ -20,5 +20,11 @@
 <h3> Brief introduction and interests</h3>
 
 ```elixir
-  def name, do: "Alvaro"
+  def name, do: "Alvaro Callero"
+  
+  def country, do: "Uruguay"
+  
+  def current_position, do: "Looking for an Elixir Developer opportunity"
+  
+  def education, do: ["Computer Engineer", "Scrum Master Professional Certificate", "Expert in learning by my own :)"]
 ```
