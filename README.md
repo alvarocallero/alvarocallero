@@ -75,3 +75,4 @@
  <p><hr background-color="forestgreen"></p>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarocallero)](https://github.com/anuraghazra/github-readme-stats)
