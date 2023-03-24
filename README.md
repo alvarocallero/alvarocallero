@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?color=82DD14&type=waving&text=Welcome!&fontColor=071fe0&fontSize=30&fontAlignY=20&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?color=82DD14&type=waving&text=Welcome!&fontColor=black&fontSize=30&height=100&section=header"/>
 </p>
 <p align="center">
   <img width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBiNTM1YzhjZTZiOTEwNzExNjUyZjk2YmIxM2FhODU2Y2Q5NjdhMyZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif">
@@ -76,5 +75,6 @@
  <p><hr background-color="forestgreen"></p>
 </div>
 
-![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarocallero&count_private=true&show_icons=true&theme=merko)
+[![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarocallero&count_private=true&show_icons=true&theme=merko)]
+<a href=""> <img align="right" width="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=40&hide=css"/> </a>
 
