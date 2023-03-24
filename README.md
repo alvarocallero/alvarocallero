@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hithere,I'mAlvaro&animation=fadeIn"/>
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=&color=0:EEFF00,100:a82da8&height=100&section=header"/>
 </p>
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
