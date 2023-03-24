@@ -27,4 +27,10 @@
   def current_position, do: "Looking for an Elixir Developer opportunity"
   
   def education, do: ["Computer Engineer", "Scrum Master Professional Certificate", "Expert in learning by my own :)"]
+  
+  def experience, do: ["8 years making cool software", "Error solver", "Backend it's my place", "Let's make something in Elixir"]
+  
+  def interests, do: ["Travel around the world", "Drink mate in a beach, "Practice surf", "Read lots of books"]
+  
+  def some_readed_books, do: ["El pequeño libro del talento", "Despierte al líder que hay en usted", "El poder del ahora"]
 ```
