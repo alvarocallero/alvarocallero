@@ -35,7 +35,7 @@
   def some_readed_books, do: ["El pequeño libro del talento", "Despierte al líder que hay en usted", "El poder del ahora"]
 ```
 <div class="line">
- <p><hr background-color"forestgreen"></p>
+ <p><hr background-color="forestgreen"></p>
 </div>
 <h3>Tools and technologies used so far</h3>
 <p align="left">
