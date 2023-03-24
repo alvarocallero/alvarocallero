@@ -4,7 +4,7 @@
 <p align="center">
   <img width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBiNTM1YzhjZTZiOTEwNzExNjUyZjk2YmIxM2FhODU2Y2Q5NjdhMyZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif">
 </p>
-<h3 align="center">Hi I'm Alvaro Callero, let's keep in touch:</h3>
+<p align="center" >Hi I'm Alvaro Callero, let's keep in touch:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaro-callero">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-11-512.png"/>
