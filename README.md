@@ -13,6 +13,6 @@
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-03-512.png"/>
   </a>
   <a href="https://www.facebook.com/alvaro.callero/">
-    <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/facebook-512.png"/>
+    <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social___1-512.png"/>
   </a>
 </p>
