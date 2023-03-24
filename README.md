@@ -34,6 +34,9 @@
   
   def some_readed_books, do: ["El pequeño libro del talento", "Despierte al líder que hay en usted", "El poder del ahora"]
 ```
+<div class="line">
+ <p><hr color="green"></p>
+</div>
 <h3>Tools and technologies used so far</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
