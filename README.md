@@ -16,3 +16,8 @@
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social___1-512.png"/>
   </a>
 </p>
+
+
+```elixir
+  def name, do: "Alvaro"
+```
