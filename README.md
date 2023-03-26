@@ -28,13 +28,15 @@
   
   def current_position, do: "Looking for an Elixir Developer opportunity"
   
+  def languages, do: ["English", "Spanish"]
+  
   def education, do: ["Computer Engineer", "Scrum Master Professional Certificate", "Expert in learning by my own :)"]
   
   def experience, do: ["8 years making cool software", "Error solver", "Backend it's my place", "Elixir lover"]
   
   def interests, do: ["Travel around the world", "Drink mate in a beach", "Practice surf", "Read lots of books"]
   
-  def some_readed_books, do: ["El pequeño libro del talento", "Despierte al líder que hay en usted", "El poder del ahora"]
+  def some_readed_books, do: ["The Little Book of Talent - Daniel Coyle", "Despierte al líder que hay en usted - Mario Luis Azcoaga", "The Power of Now - Eckhart Tolle"]
 ```
 <div class="line">
  <p><hr background-color="forestgreen"></p>
