@@ -36,7 +36,7 @@
   
   def interests, do: ["Travel around the world", "Drink mate in a beach", "Practice surf", "Read lots of books"]
   
-  def some_readed_books, do: ["The Little Book of Talent - Daniel Coyle", "Despierte al líder que hay en usted - Mario Luis Azcoaga", "The Power of Now - Eckhart Tolle"]
+  def some_readed_books, do: ["The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change - Tanya Reilly", "The Little Book of Talent - Daniel Coyle", "The Power of Now - Eckhart Tolle"]
 ```
 <div class="line">
  <p><hr background-color="forestgreen"></p>
