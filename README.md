@@ -25,9 +25,7 @@
   def name, do: "Alvaro Callero"
   
   def country, do: "Uruguay"
-  
-  def current_position, do: "Looking for an Elixir Developer opportunity"
-  
+    
   def languages, do: ["English", "Spanish"]
   
   def education, do: ["Computer Engineer", "Scrum Master Professional Certificate", "Expert in learning by my own :)"]
