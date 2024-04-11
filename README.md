@@ -77,11 +77,9 @@
 
 <a href=""> <img align="left" width="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=40&hide=css"/> </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/alvarocallero/alvarocallero/output/github-contribution-grid-snake-dark.svg)
+
+
 
 
 
