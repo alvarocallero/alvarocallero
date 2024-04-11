@@ -75,9 +75,13 @@
  <p><hr background-color="forestgreen"></p>
 </div>
 
-<a href=""> <img align="left" width="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=40&hide=css"/> </a>
-
 ![Snake animation](https://raw.githubusercontent.com/alvarocallero/alvarocallero/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+<a href=""> <img align="left" width="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=40&hide=css"/> </a>
+</p>
+
+
 
 
 
