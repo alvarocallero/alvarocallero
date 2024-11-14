@@ -69,6 +69,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="elixir" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+<img src="https://hexdocs.pm/oban/assets/logo.svg" alt="oban" width="60" height="60"/>
 </p>
 <div class="line">
  <p><hr background-color="forestgreen"></p>
