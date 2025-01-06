@@ -12,9 +12,6 @@
   <a href="https://www.instagram.com/acallero/?hl=en">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-03-512.png"/>
   </a>
-  <a href="https://www.facebook.com/alvaro.callero/">
-    <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social___1-512.png"/>
-  </a>
 </p>
 <div class="line">
  <p><hr background-color="forestgreen"></p>
