@@ -35,7 +35,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/alvarocallero/alvarocallero/output/github-contribution-grid-snake-dark.svg)
 
-<a href=""> <img align="left" width="260" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=60&hide=css"/> </a>
 
 
 
